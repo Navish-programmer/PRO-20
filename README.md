@@ -1,2 +1,2 @@
-# PRO-20
-PRO 20 by Navish-programmer
+# p5.play-boilerplate
+Boiler plate for p5.play
